@@ -10,7 +10,7 @@
   <br/><br/>
 
   <!-- GIF: coloque seu arquivo em assets/sasuke.gif no repositório -->
-  <img src="assets/sasuke.gif" alt="Sasuke" width="420" />
+  <img src="sasuke.gif" alt="Sasuke" width="420" />
 
   <br/><br/>
 
