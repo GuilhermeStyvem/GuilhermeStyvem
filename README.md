@@ -1,236 +1,101 @@
-# GuilhermeStyvem
-# 👋 Olá! Eu sou o Guilherme Styvem
+<!-- Banner animado (onda) -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:B71C1C&height=200&section=header&text=Guilherme%20Styvem&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Backend%20em%20forma%C3%A7%C3%A3o&descSize=18&descAlignY=58" alt="Banner" />
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-💻 **Desenvolvedor Backend em formação**
-⚙️ Foco atual: **Backend, APIs, C#, Python e Banco de Dados**
+  <!-- Texto digitando (animado) -->
+  <a href="https://github.com/GuilhermeStyvem">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=E53935&center=true&vCenter=true&width=600&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Backend+%7C+APIs+REST+%7C+Python+%7C+C%23;Aprendendo+na+pr%C3%A1tica%2C+um+projeto+por+vez" alt="Typing SVG" />
+  </a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/guilhermestyvem)
-[![GitHub](https://img.shields.io/badge/GitHub-Seguir-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/GuilhermeStyvem)
-[![Email](https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:guilhermestyvem77@gmail.com)
+  <br/><br/>
+
+  <!-- GIF: coloque seu arquivo em assets/sasuke.gif no repositório -->
+  <img src="assets/sasuke.gif" alt="Sasuke" width="420" />
+
+  <br/><br/>
+
+  <a href="https://www.linkedin.com/in/guilhermestyvem"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/GuilhermeStyvem"><img src="https://img.shields.io/badge/GitHub-Seguir-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:guilhermestyvem77@gmail.com"><img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
 
 ---
 
 ## 🧠 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou construindo minha carreira na área de desenvolvimento de software.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou construindo minha carreira em **desenvolvimento de software**, com foco em **Backend**: APIs, lógica de programação e bancos de dados.
 
-Tenho interesse principalmente na área de **Backend**, trabalhando com desenvolvimento de APIs, lógica de programação e bancos de dados.
+Já desenvolvi projetos acadêmicos com **Python, FastAPI, APIs REST, autenticação JWT e SQL Server**, e agora estou me aprofundando em **C# e .NET**.
 
-Já desenvolvi projetos acadêmicos utilizando **Python, FastAPI, APIs REST, autenticação JWT e SQL Server**, além de estar atualmente aprofundando meus conhecimentos em **C# e .NET**.
+Gosto de aprender colocando a mão na massa: não só fazer funcionar, mas entender como organizar melhor o código e a estrutura das aplicações.
 
-Gosto de aprender colocando o conhecimento em prática, desenvolvendo projetos e buscando entender não apenas como fazer algo funcionar, mas também como organizar melhor o código e a estrutura das aplicações.
+> 🎯 **Busco minha primeira oportunidade na área de desenvolvimento de software, principalmente em Backend.**
 
 ---
 
 ## 🛠️ Stack & Ferramentas
 
-### 💻 Linguagens
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=sqlite\&logoColor=white)
+**Linguagens**
 
-* **Python** — projetos e desenvolvimento de APIs
-* **C#** — em aprendizado e aprofundamento
-* **SQL** — consultas, CRUD e manipulação de dados
+<img src="https://skillicons.dev/icons?i=python,cs,js,html,css" />
 
-### ⚙️ Back-end & APIs
+**Back-end & APIs**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge\&logo=swagger\&logoColor=black)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=fastapi,dotnet" />
 
-* **FastAPI**
-* **APIs REST**
-* **Swagger / OpenAPI**
-* **Autenticação com JWT**
-* **CRUD**
-* **Pydantic**
-* **SQLAlchemy**
-* **Programação orientada a objetos** — em aprofundamento com C#
+**Bancos de dados**
 
-### 🗄️ Banco de Dados
+<img src="https://skillicons.dev/icons?i=postgres,sqlite" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 
-![MicrosoftSQLServer](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
+**Ferramentas**
 
-* **SQL Server**
-* **PostgreSQL**
-* **SQLite**
-* Modelagem de banco de dados
-* Tabelas e relacionamentos
-* Chaves primárias e estrangeiras
-* CRUD
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 
-### 🔧 Ferramentas
+</div>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-
-* **Git**
-* **GitHub**
-* **Visual Studio Code**
-* **Linux**
-
-### 🌐 Web / Front-end
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-- **HTML5** — fundamentos, estrutura de páginas, formulários, tabelas, links e imagens
-- **CSS3** — estilização, organização e apresentação de páginas web
-- Experiência acadêmica com desenvolvimento de páginas web
+**Conceitos que já pratiquei:** REST • CRUD • JWT • Swagger/OpenAPI • Pydantic • SQLAlchemy • modelagem de dados (chaves primárias e estrangeiras) • organização por rotas
 
 ---
 
 ## 🚀 Projetos
 
-### 📦 GDEM Stock
-
-Sistema web acadêmico para **gerenciamento de estoque, produtos, clientes e pedidos**.
-
-Desenvolvido utilizando **Python, FastAPI e SQL Server**, com integração entre backend e frontend através de uma API REST.
-
-**Principais funcionalidades:**
-
-* 🔐 Autenticação de usuários
-* 📦 Cadastro e gerenciamento de produtos
-* 👥 Gerenciamento de clientes
-* 🛒 Gerenciamento de pedidos
-* 📊 Controle de estoque
-* 🔄 Registro de movimentações
-* 🧮 Regras de negócio
-* 📚 Documentação da API com Swagger
-* 🌐 Integração entre backend e frontend
-
-**Tecnologias:**
-
-`Python` `FastAPI` `SQL Server` `REST API` `JWT` `JavaScript`
-
-🔗 [Ver projeto no GitHub](https://github.com/GuilhermeStyvem/gdme-estoque)
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| 📦 **[GDME Stock](https://github.com/GuilhermeStyvem/gdme-estoque)** | Sistema web acadêmico de estoque, produtos, clientes e pedidos, com autenticação, movimentações, regras de negócio e documentação Swagger. | `Python` `FastAPI` `SQL Server` `JWT` `JavaScript` |
+| 👕 **[Loja Virtual de Roupas](https://github.com/GuilhermeStyvem/com-rcio-de-roupas)** | Backend de loja virtual para praticar construção e organização de APIs REST, com autenticação e persistência de dados. | `Python` `FastAPI` `SQLite` `SQLAlchemy` `JWT` |
+| 🩸 **DOE+** | Projeto em equipe de apoio à doação de sangue: telas de hemocentros, campanhas, tipos sanguíneos e navegação. Backend e banco planejados para as próximas etapas. | `Interface` `Navegação` `Responsividade` |
 
 ---
 
-### 👕 Loja Virtual de Roupas
+## 📚 Estudando agora
 
-Backend de uma loja virtual desenvolvido para praticar a construção e organização de **APIs REST**.
-
-O projeto utiliza **Python e FastAPI**, com banco de dados e autenticação baseada em JWT.
-
-**Principais conceitos utilizados:**
-
-* API REST
-* CRUD
-* Autenticação JWT
-* SQLAlchemy
-* Pydantic
-* Organização por rotas
-* Modelagem e persistência de dados
-
-**Tecnologias:**
-
-`Python` `FastAPI` `SQLite` `SQLAlchemy` `JWT` `Pydantic`
-
-🔗 [Ver projeto no GitHub](https://github.com/GuilhermeStyvem/com-rcio-de-roupas)
-
----
-
-### 🩸 DOE+
-
-Projeto acadêmico desenvolvido em equipe com o objetivo de criar uma solução de apoio à **doação de sangue**.
-
-Atualmente, o projeto está concentrado na **interface, navegação e estrutura da aplicação**, com backend e banco de dados planejados para etapas futuras.
-
-**Principais atividades:**
-
-* Estruturação da aplicação
-* Desenvolvimento da interface
-* Tela inicial
-* Hemocentros
-* Campanhas
-* Tipos sanguíneos
-* Detalhes dos hemocentros
-* Navegação entre telas
-* Responsividade
-
----
-
-## 📚 Atualmente estudando
-
-### C# / .NET
-
-Estou aprofundando meus conhecimentos em:
-
-* Fundamentos de C#
-* Variáveis e tipos de dados
-* Condicionais e estruturas de repetição
-* Métodos
-* Arrays e coleções
-* Programação Orientada a Objetos
-* Tratamento de erros
-* .NET
-* Desenvolvimento de APIs com ASP.NET Core
-
-### Backend
-
-* Desenvolvimento de APIs REST
-* Organização de projetos
-* Autenticação e autorização
-* Boas práticas de desenvolvimento
-* Integração com bancos de dados
-
-### Banco de Dados
-
-* SQL
-* PostgreSQL
-* SQL Server
-* Modelagem de dados
-* Integração entre aplicação e banco de dados
-
----
-
-## 🎯 Objetivo profissional
-
-Busco minha **primeira oportunidade profissional na área de desenvolvimento de software**, principalmente em **Backend**.
-
-Meu objetivo é aplicar meus conhecimentos em projetos reais, aprender com profissionais da área e continuar evoluindo tecnicamente através de desafios e experiências práticas.
-
----
-
-## 📈 Minha evolução
+- **C# / .NET:** fundamentos, POO, tratamento de erros e APIs com ASP.NET Core
+- **Backend:** autenticação e autorização, boas práticas, organização de projetos
+- **Banco de dados:** SQL, PostgreSQL, SQL Server e integração com a aplicação
 
 ```text
-Lógica de Programação
-        ↓
-Python
-        ↓
-FastAPI + APIs REST
-        ↓
-SQL + Banco de Dados
-        ↓
-Projetos Backend
-        ↓
-C# + POO
-        ↓
-.NET / ASP.NET Core
-        ↓
-Backend profissional
+Lógica → Python → FastAPI + REST → SQL → Projetos Backend → C# + POO → ASP.NET Core → Backend profissional
+                                                              ▲ estou aqui
 ```
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GuilhermeStyvem&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeStyvem&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
 ---
 
 ## 📫 Contato
 
-📧 **E-mail:** guilhermestyvem77@gmail.com
+📧 guilhermestyvem77@gmail.com  •  💼 [LinkedIn](https://www.linkedin.com/in/guilhermestyvem)  •  🐙 [GitHub](https://github.com/GuilhermeStyvem)
 
-💼 **LinkedIn:** [Guilherme Styvem](https://www.linkedin.com/in/guilhermestyvem)
-
-🐙 **GitHub:** [GuilhermeStyvem](https://github.com/GuilhermeStyvem)
-
----
-
-⭐ Obrigado por visitar meu perfil!
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:B71C1C&height=100&section=footer" alt="Rodapé" />
+</div>
