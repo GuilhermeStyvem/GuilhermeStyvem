@@ -1,6 +1,6 @@
 <!-- Banner animado (onda) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:B71C1C&height=200&section=header&text=Guilherme%20Styvem&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Backend%20em%20forma%C3%A7%C3%A3o&descSize=18&descAlignY=58" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:B71C1C&height=140&section=header&text=Guilherme%20Styvem&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Desenvolvedor%20Backend%20em%20forma%C3%A7%C3%A3o&descSize=18&descAlignY=62" alt="Banner" />
 
   <!-- Texto digitando (animado) -->
   <a href="https://github.com/GuilhermeStyvem">
@@ -9,8 +9,8 @@
 
   <br/><br/>
 
-  <!-- GIF: coloque seu arquivo em assets/sasuke.gif no repositório -->
- <img src="https://raw.githubusercontent.com/GuilhermeStyvem/GuilhermeStyvem/main/sasuke.gif" alt="Sasuke" width="420" />
+  <!-- GIF: coloque seu arquivo em sasuke.gif no repositório -->
+  <img src="sasuke.gif" alt="Sasuke" width="200" />
 
   <br/><br/>
 
@@ -80,15 +80,6 @@ Gosto de aprender colocando a mão na massa: não só fazer funcionar, mas enten
 Lógica → Python → FastAPI + REST → SQL → Projetos Backend → C# + POO → ASP.NET Core → Backend profissional
                                                               ▲ estou aqui
 ```
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GuilhermeStyvem&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeStyvem&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
 
 ---
 
